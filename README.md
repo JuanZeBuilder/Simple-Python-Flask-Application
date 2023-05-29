@@ -1,5 +1,5 @@
 # All-In-One
-SPM Project
+SPM Project. Simple Python Flask Web Application with Vuejs dynamic frontend, along with unit-test and integration test for the application.
 
 
 ## Getting Started
